@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jamal8548
-- 👀 I’m interested in Javascript,ReactJs,NodeJs and Typescript...
-- 🌱 I’m currently learning above all four technologies
-- 💞️ I’m looking to collaborate on exchanging ideas on development
+- 👋 Hi, I’m @Jamal Ashraf
+- 👀 I’m interested in Javascript,ReactJs,NodeJs and Typescript.
+- 🌱 I’m currently learning above all four technologies and studying Masters in Web Engineering.
+- 💞️ I’m looking to collaborate on exchanging ideas on development.
 - 📫 Email me at jamal8548@gmail.com
 
 <!---
